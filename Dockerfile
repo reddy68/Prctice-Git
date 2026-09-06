@@ -8,4 +8,4 @@ COPY app.py .
 
 CMD ["python", "first.py"]
 
-CMD ["pyhton" , "app.py"]
+CMD ["python" , "app.py"]
