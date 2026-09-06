@@ -4,8 +4,4 @@ WORKDIR /app
 
 COPY first.py .
 
-COPY app.py .
-
 CMD ["python", "first.py"]
-
-CMD ["python" , "app.py"]
